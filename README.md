@@ -1,4 +1,3 @@
-digits
 ==============================
 
 Experiments with the Kaggle competition Digit Recognizer
@@ -55,3 +54,6 @@ Project Organization
 --------
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+=======
+# digits
+MNIST digit recognizer CNN in Python
